@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @StwolF21
 - 👀 I’m interested in helping you do project while I learn
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and Java
 - 💞️ I’m looking to collaborate on anything accepting an old learning noob like me
 - 📫 How to reach me anthony21p@yahoo.com
 
